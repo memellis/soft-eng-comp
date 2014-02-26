@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=H\:/MinGW_Qt/home/mark/build/opencsv/opencsv-2.3/deploy/opencsv-2.3.jar
+warSrcDir=war
+warSrcDirIsOutput=true
