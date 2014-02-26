@@ -1,3 +1,4 @@
-wat/WEB-INF/app-engine-generated
+.git
+war/WEB-INF/app-engine-generated
 war/WEB-INF/classes
 war/WEB-INF/lib
