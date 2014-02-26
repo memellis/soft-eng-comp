@@ -1,0 +1,6 @@
+entity,member
+entity_fields, member, key:employee_id,first_name,last_name,grade,role,community_role,kui,pa,cpa_level,date_cpa_assessed
+entity_data,member,1 ,mark,e,8,professional_development,manager,2,1,1, 09/09/2013
+entity_data, member,2,pete,a,10,software_engineer,member,1,1,1,14/02/2014
+entity_data,member,3 ,mary,b,10,software_engineer,member,2,2,2,14/02/2010
+entity_data, member,4,robert,c,10,software_engineer,member, 0,0,0, null
